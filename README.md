@@ -1,5 +1,8 @@
 ## Hi there, I'm Michael Angelo. 👋
-<img align="left" width="350" src="https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif"></a> Im Michael Angelo<br><samp>
+<br>
+<br>
+
+<img align="left" width="350" src="https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif">
 
 
 <!--
