@@ -1,5 +1,6 @@
 ## Hi there, I'm Michael Angelo. 👋
-<img align="left" width="350" src="[https://github.com/grace-cie/grace-cie/blob/main/pickachushiny.gif](https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif)"></a><br><samp>
+<img align="left" width="350" src="https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif"></a> Im Michael Angelo<br><samp>
+
 
 <!--
 **shshshangelo/shshshangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
