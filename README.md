@@ -1,4 +1,4 @@
-## Hi there, I'm Angelo 👋
+## Hi there, I'm Michael Angelo 👋
 
 <img align="right" width="300" src="https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif" alt="Chaeyoung gif" />
 
@@ -20,8 +20,12 @@ Fully responsive website showcasing my projects and skills. Built using HTML, CS
 
 - HTML5 / CSS3 / JavaScript
 - Bootstrap 5
-- Responsive Design
+- Flutter
 - Vercel Deployment
+- PHP MYSql
+- React
+- MSSQL
+- Firebase
 
 ---
 
@@ -39,3 +43,11 @@ Fully responsive website showcasing my projects and skills. Built using HTML, CS
 ### Contact
 
 - Email: michaelenterax@gmail.com
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shshshangelo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shshshangelo&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
