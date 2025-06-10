@@ -10,7 +10,7 @@ I specialize in building responsive and clean user interfaces using HTML, CSS, B
 
 ### My Portfolio
 
-🌐 [myportfolio-chi-rose.vercel.app](https://myportfolio-chi-rose.vercel.app/)  
+🌐 <a href="https://myportfolio-chi-rose.vercel.app/" target="_blank">myportfolio-chi-rose.vercel.app</a>
 
 Fully responsive website showcasing my projects and skills. Built using HTML, CSS, Bootstrap, and JavaScript.
 
