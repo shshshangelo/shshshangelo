@@ -4,32 +4,6 @@
   <img src="https://github.com/shshshangelo/shshshangelo/blob/main/chaeyoung-chaeyoung-twice.gif" alt="Chaeyoung gif" width="250"/>
 </div>
 
-I'm a recent Bachelor of Science in Information Technology graduate and currently looking for opportunities as a Junior Web Developer.
-
-I specialize in building responsive and clean user interfaces using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
-
----
-
-### 🌐 My Portfolio
-
-[https://myportfolio-chi-rose.vercel.app](https://myportfolio-chi-rose.vercel.app)  
-Fully responsive website showcasing my projects and skills.  
-Built using HTML, CSS, Bootstrap, and JavaScript.
-
----
-
-### 🛠️ Tech Stack
-
-- HTML5 / CSS3 / JavaScript  
-- Bootstrap 5  
-- React  
-- Flutter  
-- PHP / MySQL / MSSQL  
-- Firebase  
-- Vercel Deployment
-
----
-
 ### 🎧 Currently Listening
 
 <div align="center">
@@ -38,13 +12,6 @@ Built using HTML, CSS, Bootstrap, and JavaScript.
     ▶️ Listen on Spotify
   </a>
 </div>
-
----
-
-### 📩 Contact
-
-- Email: **michaelenterax@gmail.com**
-
 ---
 
 ### 📊 GitHub Stats
